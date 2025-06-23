@@ -46,7 +46,7 @@ Welcome to my certification and education portfolio! Below is a curated list of 
 
 * 💼 [LinkedIn](Coming SOON)
 * 🧠 [GitHub](https://github.com/phelannathan42)
-* 📧 [nathanphelan@example.com](mailto:phelannathan42@gmail.com)
+* 📧 [phelannathan42@gmail.com](mailto:phelannathan42@gmail.com)
 
 > *“Certifications are milestones. Projects are the path.”*
 >
